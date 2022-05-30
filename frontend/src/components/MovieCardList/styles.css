@@ -1,0 +1,36 @@
+.movie-card-list-container {
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  margin-bottom: 20px;
+}
+
+.movie-card-list-banner-content img {
+  margin-top: 26px;
+  width: 100%;
+}
+
+.movie-card-list-description-content {
+  padding: 11px 16px 50px;
+}
+
+.movie-card-list-description-title {
+  margin-bottom: 0;
+  line-height: 27px;
+  font-size: 1em;
+}
+
+.movie-card-list-description-year {
+  margin-bottom: 0;
+  line-height: 22px;
+  font-size: 0.8em;
+  color: #ffc700;
+  font-weight: bold;
+}
+
+.movie-card-list-description-subtitle {
+  margin-bottom: 0;
+  line-height: 19px;
+  font-size: 0.7em;
+  font-weight: normal;
+  min-height: 19px;
+}

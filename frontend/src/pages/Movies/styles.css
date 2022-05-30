@@ -1,0 +1,28 @@
+.movies-container {
+  padding: 20px 10px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movies-filter-container{
+  width: 100%;
+  max-width: 1120px;
+}
+
+.movies-card-container{
+  max-width: 1145px;
+}
+
+@media (min-width: 576px) {
+  .movies-container {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .movies-container {
+    padding: 40px;
+  }
+}
